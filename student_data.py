@@ -69,8 +69,6 @@
 # #     print(s[i])["name"]
 
 
-# # i = 0
-
 # # len = len(s)
 # # topper = s[0]
 
