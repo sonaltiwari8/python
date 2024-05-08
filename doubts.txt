@@ -1,0 +1,15 @@
+1) odd and even question
+2)  how total of the reverse works 
+
+fruits = ["banana", "mango", "guava", "pomegranate", "apple", "orange"]
+
+user = input("enter any fruit)
+
+a = false
+i = 0
+while i <= len(fruit)
+ if  user == fruit(i)
+  a= true
+ i += 1
+  
+
